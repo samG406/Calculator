@@ -1,0 +1,11 @@
+button{
+  padding:10px;
+  margin:4px;
+  background: hwb(170 1% 65% / 0.566);
+  color: black;
+}
+input[type="text"] {
+  padding:10px;
+  margin: 5px;
+  border-radius: 3px;
+}
